@@ -17,7 +17,7 @@
 
 ## :rocket: Quick start (Netlify)
 
-Deploy this template with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+Deploy this template with one click on [Netlify](https://netlify.com):
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RickCoxDev/gatsby-template)
 
